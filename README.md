@@ -1,10 +1,11 @@
 # Predicting Housing Sales for King County
 
-## Process & Sources Used
-  - King County House Sales dataset
+## Purpose
+  - To model the provided dataset with linear regression to predict the sale price of houses in King County, WA.
   
   
-## Hypothesis & Questions to Consider
+## Questions to Consider
+  
 
   
 ## Findings
