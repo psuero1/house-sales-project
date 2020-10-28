@@ -4,7 +4,7 @@
   - King County House Sales dataset
   
   
-## Questions to consider
+## Hypothesis & Questions to Consider
 
   
 ## Findings
