@@ -32,7 +32,7 @@
   
  ### Lineary & Homoscedasticity 
 
- ![linearity]https://github.com/psuero1/house-sales-project/blob/main/Visualizations/linearity.png
+  ![linearity](https://github.com/psuero1/house-sales-project/blob/main/Visualizations/linearity.png)
  
  ### Conclusions and Interpretations
  #### Looking at my model, we can see a few items in the OLS on how some specific features can add a difference to housing prices: 
