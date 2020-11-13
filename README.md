@@ -30,7 +30,7 @@
   #### On this Q-Q Plot we can see the linearity of my model.
   ![qq plot](https://github.com/psuero1/house-sales-project/blob/main/Visualizations/qq%20plot.PNG)
   
- ### Lineary & Homoscedasticity 
+ ### Lineary
 
   ![linearity](https://github.com/psuero1/house-sales-project/blob/main/Visualizations/linearity.png)
  
